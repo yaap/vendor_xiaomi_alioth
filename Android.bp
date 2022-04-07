@@ -444,15 +444,6 @@ dex_import {
 }
 
 prebuilt_etc_xml {
-	name: "privapp-permissions-google-se-lineage",
-	owner: "xiaomi",
-	src: "proprietary/system_ext/etc/permissions/privapp-permissions-google-se-lineage.xml",
-	filename_from_src: true,
-	sub_dir: "permissions",
-	system_ext_specific: true,
-}
-
-prebuilt_etc_xml {
 	name: "qti_telephony_system_packages_config",
 	owner: "xiaomi",
 	src: "proprietary/system_ext/etc/sysconfig/qti_telephony_system_packages_config.xml",

@@ -193,5 +193,4 @@ PRODUCT_PACKAGES += \
     vendor.qti.ims.factory-V1.1-java \
     vendor.qti.ims.rcsconfig-V1.0-java \
     vendor.qti.latency-V2.0-java \
-    privapp-permissions-google-se-lineage \
     qti_telephony_system_packages_config
